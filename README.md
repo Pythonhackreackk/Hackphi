@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img width="50%" src="https://ibb.co/xSNt0R0"/>
+<img width="50%" "[url=https://ibb.co/xSNt0R0][img]https://i.ibb.co/gMxLpBp/Logopit-1612723836389.jpg[/img][/url]"
 
 ## ABOUT TOOL :
 
