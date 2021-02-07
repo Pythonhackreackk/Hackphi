@@ -67,10 +67,8 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://i.postimg.cc/k4f0Ft5T/IMG-20210208-031839.jpg"/
-
-
-
+<img width="50%" src="https://i.postimg.cc/k4f0Ft5T/IMG-20210208-031839.jpg"/>
+</p>
 
 ## CONNECT WITH US :
 "https://www.instagram.com/rafliraffi/"
