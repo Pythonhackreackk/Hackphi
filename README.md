@@ -1,26 +1,3 @@
-<p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
-<a href="https://bit.ly/30yDbd5"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/30yDbd5"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Ighack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
-</p>
-<p align="center">
-<a href="https://github.com/pythonhackreack-brightgreen"><img title="Github" src="https://img.shields.io/badge/pythonhackreack-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/pythonhackreack"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-<p align="center">
-<a href="https://github.com/pythonhackreack"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/pythonhackreack"><img title="Followers" src="https://img.shields.io/github/followers/pythonhackreack?color=blue&style=flat-square"></a>
-<a href="https://github.com/Pythonhackreack"><img title="Stars" src="https://img.shields.io/github/stars/pythonhackreack/ighack?color=red&style=flat-square"></a>
-<a href="https://github.com/pythonhackreack"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/ighack?color=red&style=flat-square"></a>
-<a href="https://github.com/Pythonhackreack"><img title="Watching" src="https://img.shields.io/github/watchers/pythonNO7/ighack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Pythonhackreack"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
 
 ## ABOUT TOOL :
 
@@ -92,8 +69,7 @@ __EXIT__ :
 <br>
 <p align="center">
 <img width="50%" src="https://user-images.githubusercontent.com/49580304/96563949-6b90ec00-1277-11eb-9c1b-221a31d7c79d.jpg"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96563953-6c298280-1277-11eb-9cf2-828b351168ae.jpg"/>
-</p>
+
 
 ## WATCH VIDEO [Termux]
 
