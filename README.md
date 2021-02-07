@@ -34,7 +34,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `pip install lolcat`
 * `git clone https://github.com/Pythonhackreackk/Hackphi`
 * `cd $HOME`
-* `cd ighack`
+* `cd Hackphi`
 * `bash setup`
 * `bash ighack.sh`
 ```
