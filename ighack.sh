@@ -23,7 +23,7 @@ echo '
     ╚═╝ ╚═════╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ' |lolcat
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By pythonNo7 << \e[0m\n"
 printf "\n"
 printf "  \e[100m\e[1;77m >>  WA 085257728360 : \e[1;96m PythonNO7 \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
