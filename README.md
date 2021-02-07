@@ -71,10 +71,6 @@ __EXIT__ :
 <img width="50%" src="https://user-images.githubusercontent.com/49580304/96563949-6b90ec00-1277-11eb-9c1b-221a31d7c79d.jpg"/>
 
 
-## WATCH VIDEO [Termux]
-
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
-
 ## CONNECT WITH US :
 "https://www.instagram.com/rafliraffi/"
 ## BUY ME A COFFEE :
